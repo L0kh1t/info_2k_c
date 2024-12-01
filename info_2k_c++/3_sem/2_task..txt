@@ -1,0 +1,52 @@
+1)Default Constructor
+Destructor
+
+2)Error;
+
+3)Constructor from int
+Destructor
+
+4)Default constructor
+Copy Constructor
+Destructor
+Destructor
+
+5)Default constructor
+Copy Constructor
+Destructor
+Destructor
+
+6)Default constructor
+Default constructor
+Assignment
+Destructor
+Destructor
+
+7)Default constructor
+Copy Constructor
+Destructor
+Destructor
+
+8)Default constructor
+Destructor
+
+9)Error
+
+10)Constructor from int
+Destructor
+
+11)Default constructor
+Copy Constructor
+Destructor
+Destructor
+
+12)Default constructor
+Default constructor
+Assignment
+Destructor
+Destructor
+
+13)Default Constructor
+Destructor
+
+
